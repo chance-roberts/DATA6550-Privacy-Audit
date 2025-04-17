@@ -1,0 +1,355 @@
+[Autumn]:  Yeah, I used that document, and I did.
+
+[Autumn]:  Well, and I did the opposite way. I did four different summaries, but then I have all of my privacy policies
+
+[Autumn]:  And then I need a document with like my analysis.
+
+[Autumn]:  and outlining through that.
+
+[Autumn]:  or just like a click, some click below.
+
+[Autumn]:  points at the top of that the apps I specifically chose because we also I put
+ our list of apps that we collectively
+
+[Chance]:  which I saw that.
+
+[Autumn]:  um put in the topic in the collaboration folder.
+
+[Chance]:  Yeah.
+
+[Chance]:  Um.
+
+[Chance]:  So do we also need to do kind of what Ashland did?
+
+[Chance]:  in the comparison folder.
+
+[Kirstin]:  What did she do?
+
+[Kirstin]:  Hahaha!
+
+Chance Roberts
+Okay, here we go. Let's see. Giving it a few seconds to see how it processes the transcript. Come on. It says it's in the meeting though, right? Hold on. 
+
+Autumn Noblit
+In real time. Because I was playing around with this feature at work the other day because I didn't want to take notes and I couldn't see anything. It was like it processed it after the fact and I had to go back into my. 
+
+Chance Roberts
+Yeah, that's because, like, with scripty, you can see it as it's actively going just as a confirmation, I guess you can't with grain. It just says it's processing. 
+
+Autumn Noblit
+Okay. Yeah, that's what I thought. Teams is nice because it pro. It like transcribes it live too, but, you know, that's fun. 
+
+Chance Roberts
+But yeah, like, I didn't do anything with. With like user ease or anything. I think I like, kind of talk about a little bit of it, but like, not like to the degree of. Of like. Oh, like how easy it is to like, access your data. 
+
+Autumn Noblit
+But yeah, I didn't either again on the main. On my matrix. 
+
+Chance Roberts
+But yeah, no, just dealing with. Oh, yeah. So yeah, I was trying to do an LSTM model to predict monthly traffic crashes based on like, specific police beats in the city of Chicago. And it's like, got a model working, like, added my layers. Made it work, all that fun stuff. And then like last night I noticed, I was like, oh, the data is looking like, why are my predictions looking so, like, off? Like, it was predicting for the entire year for all of these, like, these beats that, like, there was only going to be like 2,000 traffic accidents in the city of Chicago. I'm like, that's not right. 
+
+Autumn Noblit
+Right. 
+
+Chance Roberts
+So I tinkered with it a little bit more this morning, and then I just, like, got to a point where I'm like, you know what? I'm done. I don't want to mess with this. It takes from end to end reading in the data to manipulating it, to it being in method that LSTM model can use. It takes about like 30, 45 minutes. Like, I'm like, I'm done. I'm like, I'm just doing random forest. And like, my random forest prediction is like really high. Like, it's saying that, like, it's predicting that there's going to be like 200,000 crashes in the, in the city of Chicago in 2025. But I'm like, that's better. That's a better number than 2,000. 
+
+Autumn Noblit
+Yeah. 
+
+Chance Roberts
+But, yeah, like, I think I've got that pretty much done, though. All I have to do is, is type up like a half page, I think. Nice, because it's like, I know you're about to graduate. 
+
+Autumn Noblit
+How exciting. 
+
+Chance Roberts
+I'm. I'm gonna be crawling across the stage at this point. 
+
+Autumn Noblit
+I'm like. 
+
+Chance Roberts
+I'm like, I just have no motivation whatsoever. Yeah, no motivation. And then like, I don't know. This is like my last, like. Like for 6330, this is my, my last, like, paper I have to actually write. But it's like a three to five page portion. I'm at 1, 2, 3. So I'll be at about four pages. And then I have to edit everything, make adjustments based on the feedback that I haven't really been receiving. And then next Saturday is my data dive. 
+
+Autumn Noblit
+Oh, wow. Are you supposed to receive feedback like throughout the process? 
+
+Chance Roberts
+So yeah, so it's like, yeah, so it's like I'm supposed to receive feedback. I think it's like within a week. But like it took almost two weeks to get feedback for homework too. And it's like, so I have to like go back and whenever I'm going, compiling everything for. For homework five, which is like the full report. Have to like, look at all that again. I will admit though, like, like last night, like, while I was waiting for that model to train one more time, I was able to like knock out like my individual contributions and my quiz and stuff like that for this class. So it's like I don't feel like I'm as like behind the ball like I normally am for a Wednesday. I should say. 
+
+Kirstin Tretter
+I still have to do the clues tonight. 
+
+Chance Roberts
+It. I will admit this. This unit has been really easy. Like, I think a lot of it, like, a lot of it is just like, like, hey, like, what's going on? Like this one, this unit I think feels more common sense. 
+
+Kirstin Tretter
+Yeah. 
+
+Autumn Noblit
+Yeah. But I did ask the question because when I took the quiz, there were a couple questions on there that I went back. I couldn't find anywhere in the articles. And so I am. I do want to check with him on that because, you know, sometimes the tests are like, specifically reference this abcd, whatever. And I just want to make sure that we're not missing an article because one that is up there for this week is the same one that's from last week. 
+
+Chance Roberts
+Yeah. 
+
+Autumn Noblit
+He never responded to my post online. D2L. I was like, oh, pseudorandomization. 
+
+Chance Roberts
+It. But yeah, like, I. I'm gonna be honest, I didn't really use AI all that much for this one. Like. Yeah, because like I just found it was like the first day that. Or like last Thursday, whenever we talked, like, I like read through them and like jotted down like just some general notes. And then like I just used, like, I used it one time to like summarize, like just as a refresher, but like nothing like. Because for me it was just easier to like kind of like skim and parse versus like try to read it as like a full document, you know? 
+
+Autumn Noblit
+Yeah, yeah, I meant everyone was doing some highlights, but because the language was a little bit different. That's why I was like, let me put this template and Chat GPT and just have it like summarize it to have the components there. But like I said with the matrix, I did go back and forth and kind of look up some things and double check stuff because there were a few things that Chat GPT gave me, I think too it was for TPAC and Eaton Community bank specifically, since they were so small. Yeah, I like there just is not as much information so I had to go back and read and you know, put more details in there. But he. Do you all think then for like best and worst practices or user friendliness just because he mentioned that on the outline. Should we maybe like just do a couple sentences in this key findings from comparison section? Yeah, probably. 
+
+Chance Roberts
+Yeah, yeah, probably just a little bit. But how have y'all been? Because y'all are only in one in one class now, right? 
+
+Kirstin Tretter
+Yeah, I only have. 
+
+Autumn Noblit
+I have two. I'm in statistics in this because I had my first seven week class at the beginning. 
+
+Chance Roberts
+How are statistics going? 
+
+Autumn Noblit
+It's good, you know, it's. Math is always for me different, like reading PowerPoints. But Dr. Rowell is so nice and helpful with any questions. Yeah, that's what makes it easy because she's like the most approachable and willing to help and like she'll even make videos and stuff. Stuff, so that's been really great. 
+
+Chance Roberts
+Yeah. Like, I, I really enjoy. Because I, I had her in person my first semester at grad school and she, she's just such a, A good professor. 
+
+Autumn Noblit
+Yeah, I would have if the class hadn't been on like Wednesday at 12:00. Like, I can't. 
+
+Chance Roberts
+Yeah. Like she's, she's just so great. Um, and then on top of that, like, it's like, I think the only complaint I had with her class was that like. And it wasn't even like directed at her. It was just like in general, like the nature of the course. Like, I kind of wish that it would have been focused more on like, like statistics through the lens of coding versus like. Or like. Or not through the lens of coding but like not just using like my stat lab or like whatever. The StatCrunch. 
+
+Kirstin Tretter
+Yeah, I mean, I guess you're like welcome to use whatever you wanted. But like when I took it, I didn't have enough experience to be able to do it any other way. 
+
+Chance Roberts
+See, I did, but it was just so much easier to, to use StatCrunch. Like whenever you're doing the homework or the exams, it's like, it's like, oh, it's like, why like export this to a CSV then read this into another like program. It's like I can just immediately export it. Like, and I get that. Like. 
+
+Kirstin Tretter
+But it was kitty. Oh my gosh, my cat's like walking on the keyboard. 
+
+Chance Roberts
+My. So my first semester of postback I did like the under Undergraduate Stats 1 and it was like kind of that asynchronous like, like everything self paced and like it was using StatCrunch. But then I took Stats 2 with Dr. Green in the spring. That spring. And it was like completely different. It was like, oh, it's like like all of my homework assignments are like in R and all of my exams are like, like more like written application versus like, like versus like math. 
+
+Autumn Noblit
+Like, like general math. I don't know how to say it, but yeah, yeah, it was like. 
+
+Chance Roberts
+It was like instead of like, oh, like, like calculate the confidence interval. It's like there were some, there were some like elements of that where it's like, oh, general formulas that you do need to know. But a lot of it was like, oh, like given this like regression summary, what can you draw? What can you conclude or what sticks out. So it'd be like for linear regression, it would have all of the features, their significance level, their coefficients, all of that information that. But, but yeah, no, I, I'm so ready to be done. I'm sure. Like my. I think like my last assignment for 6330 is to. On the 29th. That's when like everything is due. They have the data dive on the, have the data dive on the 26th and then the 29th is when everything's due and then we have class. Our last class would be that Thursday. I'm just going to take the final, the module 7 exam on that, that Friday or Saturday just to be done with it. Yeah, but I don't know, I just kind of. I don't know. I can imagine. I can only imagine how tedious it's been for him to like grade all of these because our class is pretty big. 
+
+Kirstin Tretter
+Yeah, it is. He's still like super behind on grading though. 
+
+Chance Roberts
+Yeah, like he, I mean he got module four projects out. 
+
+Kirstin Tretter
+I mean he needs to grade some exams though. Like. 
+
+Chance Roberts
+Yeah, like that's. 
+
+Kirstin Tretter
+Come on dude. 
+
+Chance Roberts
+That's honestly what I'm scared of. Like right. 
+
+Kirstin Tretter
+Like, you know, we keep getting hundreds or whatever for the like assignments. Fantastic. I need to know about the exams. Like that's. Yeah. 
+
+Chance Roberts
+Let's see how many people are in. He's got. There's 26 people in our class. That's a lot like for there being a, like a 90 minute exam every two weeks plus like all of the code and writing that goes into the projects. 
+
+Kirstin Tretter
+Like well maybe he'll reconsider his. 
+
+Autumn Noblit
+Well he said when I went to take my one exam in person that la. I think he's only taught this class one other time and it was a seven class and it was each week there was an essay and a test. 
+
+Chance Roberts
+Yes. 
+
+Autumn Noblit
+Yeah. 
+
+Chance Roberts
+So this is, this is only the second, the second time this class has been offered because the master's program is so new. 
+
+Autumn Noblit
+Which explains why I thought I was out of my mind because I think when I registered for this class it was still originally in the seven week format. And so when I, right before class I was like, wait, why do I have two semester long classes? I didn't get notification, it just changed. Changed. 
+
+Kirstin Tretter
+Oh my gosh. 
+
+Autumn Noblit
+I. I was, I thought I was losing my mind. I was like, no. I signed up for two seven week classes, one on each end and then my stats class. So it made me feel a little bit more sane. When he told me about how this was previously, I'm like, okay, I'm not, I'm not crazy. I didn't mess. 
+
+Chance Roberts
+Which like, my understanding was that like, it was like it was a cool idea to have it as a seven week class but then also like everybody was just like leveraging chat. 
+
+Kirstin Tretter
+Yeah, they all cheated and everybody got in trouble and people got sent to like the academic integrity Committee and it was a whole thing. 
+
+Autumn Noblit
+I feel like though that's a whole thing probably across campus now because I know a stat. The one thing I am like a little like about are these last minute projects, which I know they're not a big deal and they're only for 25 points, but I'm like, I kind of wish we just would have known. So it could have been like, oh, let me knock this one out here and knock this one out there. But I know Dr. Was like, I don't want, you know, a chat GPT analysis of this and it's just all over. So I feel like that's just. 
+
+Chance Roberts
+Yeah, I will admit that's the one. Like I said, that was the one thing. Like, Dr. Rao is like super. What I liked about our class was that like, like there's no reason why you shouldn't be able to walk out of that class with an A because like if you're from, if you're struggling at all, like, she gives you ample opportunities to like show that you understand the material. 
+
+Autumn Noblit
+Yeah. 
+
+Chance Roberts
+Like, it's like I, like I got, I barely got a 6 or barely got a 70 on the, the final exam because I was like, just could not like focus. Like it's like, because I'd like done so well on the midterm. And then I did the bonus for the midterm and I did the projects and 
+
+Autumn Noblit
+see, that's what I'm scared of because yeah, I did the bonus for the midterm and I've like retaken quizzes and stuff. I'm like, don't drop the ball now. And I'm like, oh, sometimes I'm scared I'm just gonna blank at the end. Even though we'll have notes. 
+
+Chance Roberts
+Yeah. Like, and also what I really liked about our mid or like our final and I'm not sure if it's. It might be the same for y'all. But, like, it was only over, like, the second half of the semester. It wasn't. Wasn't fully cumulative. 
+
+Autumn Noblit
+See, she said ours is going to be cumulative, but with the last. 
+
+Kirstin Tretter
+I forget if ours was or not. 
+
+Autumn Noblit
+Yeah, with the last half having more weight. 
+
+Chance Roberts
+Yeah. It's like ours was only for, like, only the second half of the semester, but then we also were. Or it might have been the same. It might have been, like, weight. I think it was like 70%. And 30% because there were like some concepts in the second half the semester that like built on like the initial concepts at the beginning of the semester. Yeah, like, I think like, I think like some of like the T tests and like, like group means stuff like as it related to like or as it builds into like chi square and like independence and all of that. Like. 
+
+Autumn Noblit
+But yeah. 
+
+Chance Roberts
+What was it gonna do? 
+
+Autumn Noblit
+Hey, I have a quick question for you Chance, while I'm thinking about it and. Well, Kirsten too, but I Chance, I feel like you mentioned this. What is it? Oh, shoot. One of the elective classes. Classes about like big data, like mining big data sets, analysis of large scale data. I think that's the one. And I was looking at that to take. I was just going to ask how. How that was. 
+
+Chance Roberts
+I really enjoyed it. Which pre. 
+
+Kirstin Tretter
+What class is that? What prefix? 
+
+Autumn Noblit
+I know I gotta look it up because 
+
+Chance Roberts
+I think it's like stat 5700. 
+
+Kirstin Tretter
+Let me look at it. 
+
+Autumn Noblit
+Well, I don't maybe for. So in the fall it's going to be taught by Dr. Toddy, which she. 
+
+Kirstin Tretter
+Was it a BIA class? 
+
+Autumn Noblit
+No, I thought it would be, but it's. It is actually under something else. 
+
+Chance Roberts
+Let me look at the fall question. 
+
+Autumn Noblit
+I just have to log in to Pipeline and look at it because you guys are amazing with like it's this number and that number. I'm like, yeah, okay, if it's Dr. 
+
+Chance Roberts
+Toddy, that' probably. That's probably a BIA class. 
+
+Kirstin Tretter
+Yeah. She teaches B. 
+
+Autumn Noblit
+Yeah. Because. Well, that's the thing. I had one class with her. So when I saw her name on this, I was like, oh, I really liked her method and how. 
+
+Kirstin Tretter
+But Large Scale data is a stat class. 
+
+Autumn Noblit
+Okay. Yes. So it is under that and it's on Tuesdays. 
+
+Chance Roberts
+Oh. So yeah, I think you're looking at. 
+
+Kirstin Tretter
+This is a distance learning class though, and it doesn't have an instructor listed. 
+
+Autumn Noblit
+Okay. I'm gonna find it now. I'm determined. 
+
+Chance Roberts
+If you already. You already took the Excel course, right? 
+
+Autumn Noblit
+Yeah. The one with. What was it? 
+
+Chance Roberts
+6910 or 6905 or 5. 
+
+Autumn Noblit
+Yes, with. It was like Excel and tableau. 
+
+Chance Roberts
+Yeah. So Dr. Seiple is teaching 69 10, which is the. Like the. It's like more tableau. It's like only tableau. 
+
+Kirstin Tretter
+I think I'm gonna take that one. 
+
+Autumn Noblit
+Which is the same day. I have in time. I have. Have to take 6550. 
+
+Kirstin Tretter
+That's annoying because I'm. 
+
+Autumn Noblit
+Yeah, because I was looking at that and I'm like, oh, that one is out. And that's why I started looking at other options. 
+
+Chance Roberts
+Yeah. 
+
+Autumn Noblit
+Or maybe it's 6920. Yes. I'm sorry. Data mining and predictive analytics was. 
+
+Kirstin Tretter
+Oh, I just took that this semester. 
+
+Autumn Noblit
+Oh, how. Okay. How was that? 
+
+Kirstin Tretter
+It was good. It was. It was just fine. It was. 
+
+Autumn Noblit
+You say that I remember, though, the last. 
+
+Kirstin Tretter
+No, it was. It was. I just took that. Hang on, let me look at my. 
+
+Chance Roberts
+Yeah, you took that this semester because, like. 
+
+Kirstin Tretter
+Yeah, I just finished it. Let me look at my. Let me look at my homework assignments really fast. 
+
+Autumn Noblit
+Did you have Dr. To. I'm sorry, I don't mean to derail us. I know we're meeting about. 
+
+Chance Roberts
+I think we're. I think we're good on. On our projects. Like, we're good to just chill. I'm going to stop the. 
+
+Autumn Noblit
+Yeah. And I was just going to add a few things about the key findings, and then my.
